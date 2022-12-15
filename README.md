@@ -59,9 +59,9 @@ Es por eso que un importante Centro de Salud me ha contratado con el fin de pode
   
 •	Por ultimo, se pone a disposición el Jupyter Notebook (.ipynb) en donde van a encontrar los comentarios con la fundamentación de la solución propuesta.
 
-## **Conclusion*
+## **Conclusión*
 
-La conclusión a la que he llegado es que: el *machine learning* es una herramienta  muy precisa que; en este caso, nos ayudó a predecir las estadías de hospitalización largas y cortas, aumentando la eficiencia del Centro de Salud ya que se puede planificar con antelación los registros y las admisiones hospitalarias de emergencia que se producen en el día a día.  
+La conclusión a la que he llegado es que: el *machine learning* es una herramienta  muy precisa que; en este caso, nos ayudó a predecir las estadías de hospitalización largas. Asi, se pudo aumentar la eficiencia del Centro de Salud ya que este puede saber con antelación cuales van a ser los registros y las admisiones hospitalarias de emergencia que se producen en el día a día de larga estadía. 
   
 
 
