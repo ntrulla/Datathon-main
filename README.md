@@ -57,7 +57,7 @@ Es por eso que un importante Centro de Salud me ha contratado con el fin de pode
   
 •	Hacemos el pipline de los datos necesarios ya que no debemos analizar los datos en los mismos sistemas donde se crean. Debido a que el proceso de analítica es  costoso computacionalmente, por lo que se separa para evitar perjudicar el rendimiento del servicio;
   
-•	Por ultimo, recuerden que en el Jupyter Notebook (.ipynb) van a encontrar los comentarios con la fundamentación de la solución propuesta.
+•	Por ultimo, se pone a disposición el Jupyter Notebook (.ipynb) en donde van a encontrar los comentarios con la fundamentación de la solución propuesta.
 
 ## **Conclusion*
 
