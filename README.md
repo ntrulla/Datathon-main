@@ -11,7 +11,7 @@
 
 ¡Bienvenidos a mi segundo proyecto individual!
   
-En esta oportunidad pude poner en práctica mis habilidades en el campo de la predicción. El objetivo de este trabajo era realizar un modelo de Machine Lerning para solucionar el problema planteado.
+En esta oportunidad pude poner en práctica mis habilidades en el campo de la predicción ya que el objetivo del trabajo era realizar un modelo de Machine Lerning que solucionara el problema planteado.
 
 
 
